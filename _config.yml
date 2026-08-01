@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Bryant E. Avila"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "AI Systems Engineer and physics PhD (ABT). Portfolio of research, teaching, and production AI work."
 url                      : https://kryogenica.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "elbryant.jpg"
   name             : "Bryant Avila"
   pronouns         : # example: "she/her"  
-  bio              : "Computational and hands-on physics PhD, data & network scientist, AI hobbyist, fashion recreationalist, and team manager… also into surfing"
-  location         : "CA / NY / Remote"
-  employer         : "City College of New York"
+  bio              : "AI Systems Engineer, physics PhD (ABT), data & network scientist… also into surfing"
+  location         : "Hollywood, Los Angeles, CA"
+  employer         : "DBE Legal"
   uri              : # URL
-  email            : "bryant.avila.physics@gmail.com" 
+  email            : "kryogenica@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
