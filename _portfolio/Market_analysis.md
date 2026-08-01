@@ -2,7 +2,7 @@
 title: "Market indicators and analysis💹"
 excerpt: "Just a simple play and exploration into market indicators and trends. <br/><img src='/images/bollinger_analysis.png' width='50%'>"
 collection: portfolio
-order: 7
+order: 8
 ---
 
 This was a simple personal project to learn crypto market behaviors and indicators, and to explore correlations in the data.

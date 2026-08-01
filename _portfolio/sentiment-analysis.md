@@ -2,7 +2,7 @@
 title: "Sentiment analysis for stock market predictions📈📉"
 excerpt: "Used Twitter feeds and support vector machines for stock prediction. <br/><img src='/images/Tweet-polarity.png' width='50%'>"
 collection: portfolio
-order: 6
+order: 7
 ---
 
 This project aimed to predict stock market and cryptocurrency trends by analyzing public sentiment and price history data.

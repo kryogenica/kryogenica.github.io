@@ -2,7 +2,7 @@
 title: "Open-Forecast: A FinTech Tool"
 excerpt: "OpenForecast: A fintech web app for predicting stock price movements in real time, showcasing pre-market data analysis with customizable similarity metrics and prediction models for NVDA market data. <br/><img src='/images/open-forecast.png' width='50%'>"
 collection: portfolio
-order: 2
+order: 3
 ---
 
 🚀 OpenForecast – a powerful tool I developed to try to predict stock prices using machine learning! 📊

@@ -19,6 +19,8 @@ Research Interests
 
 Recent Personal Projects
 ======
+* [**VisualSounds: Eye-Gaze Detection**](https://github.com/kryogenica/VisualSounds)
+  * The first building stone of something new: an iOS system for on-screen eye-gaze detection (TrueDepth + ARKit). What follows is still under wraps — glimpses only — toward a new media experience powered by text-to-audio transformers.
 * [**Open-Forecast: A FinTech Tool**](https://open-forecast.streamlit.app/)
   * A fintech web app built with Streamlit, designed to forecast stock prices using machine learning. It analyzes pre-market data to predict price trends.
 * [**Contextual Search: A RAG Tool**](https://github.com/kryogenica/Contextual_Search_Tool)
