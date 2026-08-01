@@ -65,7 +65,8 @@ Work Experience
 
 Education
 ======
-* PhD (all but thesis) in Physics - The City College of New York - Feb 2019 – Dec 2024
+* ABT-PhD in Physics - The City College of New York - Feb 2019 – Dec 2024
+  * Doctoral training through thesis development
   * Advisors: [Hernan Makse](https://hmakse.ccny.cuny.edu/), [Manuel Zimmer](https://www.imp.ac.at/groups/manuel-zimmer)
 * M.S. in Physics - CUNY Graduate Center - Sept 2019 – Feb 2022
   * Advisors: [Hernan Makse](https://hmakse.ccny.cuny.edu/), [David Phillips](https://www.usna.edu/Users/math/dphillip/)
