@@ -19,7 +19,7 @@ Research Interests
 
 Recent Personal Projects
 ======
-* [**VisualSounds: Eye-Gaze Detection**](https://github.com/kryogenica/VisualSounds)
+* **VisualSounds: Eye-Gaze Detection** (private)
   * The first building stone of something new: an iOS system for on-screen eye-gaze detection (TrueDepth + ARKit). What follows is still under wraps — glimpses only — toward a new media experience powered by text-to-audio transformers.
 * [**Open-Forecast: A FinTech Tool**](https://open-forecast.streamlit.app/)
   * A fintech web app built with Streamlit, designed to forecast stock prices using machine learning. It analyzes pre-market data to predict price trends.
@@ -85,8 +85,8 @@ Skills
 Publications
 ======
 * Avila B, et al. [“Symmetries and synchronization from whole-neural activity in the Caenorhabditis elegans connectome: Integration of functional and structural networks.”](https://www.pnas.org/doi/10.1073/pnas.2417850122) PNAS. 2025.
-* Tommaso G, Avila B, et al. [“Fibration symmetry-breaking supports functional transitions in a brain network engaged in language.”](https://www.researchsquare.com/article/rs-4409330/v1) Nature. 2024.
-* Avila B, et al. [“Fibration symmetries and cluster synchronization in the Caenorhabditis elegans connectome.”](https://arxiv.org/abs/2305.19367) PLOS ONE. 2024.
-* Tommasone M, Avila B, et al. [“Scale-up of Dry Impregnation Processes for Porous Spherical Catalyst Particles in a Rotating Drum: Experiments and Simulations.”](https://arxiv.org/abs/2307.14444) Granular Matter (Springer). 2023.
-* Khayat R, Avila B, et al. [“Cryo-electron microscopy structure of the 70S ribosome from Enterococcus faecalis.”](https://www.nature.com/articles/s41598-020-73199-6) Nature. 2020.
-* Khayat R, Avila B, et al. [“Porcine circovirus 2 uses a multitude of weak binding sites to interact with heparan sulfate, and the interactions do not follow the symmetry of the capsid.”](https://jvi.asm.org/content/93/6/e02222-18) Journal of Virology. 2019.
+* Gili T, Avila B, et al. [“Fibration symmetry-breaking supports functional transitions in a brain network engaged in language.”](https://arxiv.org/abs/2409.02674) arXiv preprint. 2024.
+* Avila B, et al. [“Fibration symmetries and cluster synchronization in the Caenorhabditis elegans connectome.”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297669) PLOS ONE. 2024.
+* Xu P, Shen Y, Avila B, et al. [“Scale-up of dry impregnation processes for porous spherical catalyst particles in a rotating drum: experiments and simulations.”](https://link.springer.com/article/10.1007/s10035-024-01416-4) Granular Matter. 2024.
+* Murphy E, Avila B, et al. [“Cryo-electron microscopy structure of the 70S ribosome from Enterococcus faecalis.”](https://www.nature.com/articles/s41598-020-73199-6) Scientific Reports. 2020.
+* Dhindwal S, Avila B, et al. [“Porcine circovirus 2 uses a multitude of weak binding sites to interact with heparan sulfate, and the interactions do not follow the symmetry of the capsid.”](https://jvi.asm.org/content/93/6/e02222-18) Journal of Virology. 2019.

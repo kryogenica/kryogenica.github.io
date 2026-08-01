@@ -13,6 +13,6 @@ What it unlocks is still under wraps. I'm only giving glimpses: a new kind of **
 
 For now, the stone on the table is gaze — precise, personal, on-device.
 
-[Repository](https://github.com/kryogenica/VisualSounds).
+Repository (private).
 
 \#iOS \#ARKit \#TrueDepth \#EyeTracking \#OnDeviceML \#Swift \#TextToAudio \#Media
