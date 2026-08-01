@@ -1,6 +1,6 @@
 ---
 title: "Open-Forecast: A FinTech Tool"
-excerpt: "OpenForecast: A fintech web app for predicting stock price movements in real-time, showcasing pre-market data analysis with customizable similarity metrics and prediction models for NVDA market data. <br/><img src='/images/open-forecast.png' width='50%'>"
+excerpt: "OpenForecast: A fintech web app for predicting stock price movements in real time, showcasing pre-market data analysis with customizable similarity metrics and prediction models for NVDA market data. <br/><img src='/images/open-forecast.png' width='50%'>"
 collection: portfolio
 order: 2
 ---
@@ -11,7 +11,7 @@ OpenForecast is a Streamlit-based web app that helps users predict future stock 
 
 The idea is that pre-market prices often reflect investor sentiment and major market-moving events that occur outside regular trading hours, providing early insights into potential market direction. By using these to select previous open trading days, the model can better capture short-term volatility and patterns (mainly at opening time) that might influence future price movements.
 
-It's designed for real-time stock price analysis and visualization, making it a simple yet powerful tool for financial forecasting. Prediction tools will be improved as time goes on.
+It's designed for real-time stock price analysis and visualization, making it a simple yet powerful tool for financial forecasting. Prediction tools will be improved over time.
 
 Check it out on Streamlit and let me know your thoughts! 🔗
 [Open-Forecast](https://open-forecast.streamlit.app/).

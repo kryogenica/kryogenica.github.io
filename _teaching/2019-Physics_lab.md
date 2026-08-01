@@ -7,6 +7,6 @@ venue: "City College of New York"
 date: 2023-05-10
 location: "New York, NY"
 ---
-Taught underrepresented biodemical and engineering undergraduate majors introductory physics concepts through elbarote lab setups and in class work, from wave dynamics, electronics and ligh matter properties.
+Taught underrepresented biomedical and engineering undergraduate majors introductory physics concepts through elaborate lab setups and in-class work, covering wave dynamics, electronics, and light-matter properties.
 
 All labs can be found in this [link](https://physicslabs.ccnysites.cuny.edu/).

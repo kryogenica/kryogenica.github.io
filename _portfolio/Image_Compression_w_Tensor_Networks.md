@@ -5,7 +5,7 @@ collection: portfolio
 order: 4
 ---
 
-Google Colab notebook linked below is about using **Matrix Product States (MPS)** for lossy image compression, based on a paper titled "[Tensor Networks for Image Compression](https://diposit.ub.edu/dspace/bitstream/2445/96365/1/TFG_Fis_Trujillo_Boque_Alex.pdf)" by Alex Trujillo Boque.
+The Google Colab notebook linked below is about using **Matrix Product States (MPS)** for lossy image compression, based on a paper titled "[Tensor Networks for Image Compression](https://diposit.ub.edu/dspace/bitstream/2445/96365/1/TFG_Fis_Trujillo_Boque_Alex.pdf)" by Alex Trujillo Boque.
 Here's a brief summary of the key points:
 
 - **TensorFlow and Libraries**: It imports TensorFlow, Keras, and other helper libraries for data manipulation and visualization.
@@ -18,4 +18,4 @@ The notebook includes code cells with detailed comments explaining each step of 
 
 [Repository](https://colab.research.google.com/github/kryogenica/Image-compression-using-Matrix-Product-States/blob/master/Image_compression.ipynb#scrollTo=7BGIZ7mpctpj).
 
-python libarires: itertools, tensorflow, numpy, matplotlib, math.
+Python libraries: itertools, tensorflow, numpy, matplotlib, math.

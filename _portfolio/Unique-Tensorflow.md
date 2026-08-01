@@ -1,11 +1,11 @@
 ---
-title: "Unique Tensorflow architecture"
+title: "Unique TensorFlow architecture"
 excerpt: "Created a unique neural network architecture and tested its performance against other established architectures 🧠🕸️. <br/><img src='/images/loopyrnn.jpeg' width='50%'>"
 collection: portfolio
 order: 5
 ---
 
-The Google Colab notebook linkd below is focused on a research project involving several neural network models intendent to predict cryptocurrency prices. A brief overview of the key sections and activities are:
+The Google Colab notebook linked below focuses on a research project involving several neural network models intended to predict cryptocurrency prices. A brief overview of the key sections and activities is:
 
 - **Setup**: The notebook begins by mounting a Google Drive to access files and importing various Python libraries necessary for data analysis and machine learning.
 
@@ -13,7 +13,7 @@ The Google Colab notebook linkd below is focused on a research project involving
 
 - **Visualization**: The notebook includes code to visualize the cleaned dataset using candlestick charts, which are commonly used in financial analysis to represent price movements.
 
-- **Normalization**: It discusses the normalization of data using exponential smoothing, a technique to smooth out data for better predictions in time series forecasting.
+- **Normalization**: It discusses the normalization of data using exponential smoothing, a technique to smooth out data for better predictions in time-series forecasting.
 
 - **Data Pipeline**: The notebook outlines the creation of a data pipeline using a custom `Window Generator` class, which prepares the data for the machine learning models.
 
@@ -27,4 +27,4 @@ The Google Colab notebook linkd below is focused on a research project involving
 
 [Repository](https://colab.research.google.com/drive/1hRhKZnoJoxp4uazYOwXVTjAaZdZZI2Ho?usp=sharing).
 
-python libarires: tensorflow, keras, plotty, seaborn, matplotlib, pandas, numpy. 
+Python libraries: tensorflow, keras, plotly, seaborn, matplotlib, pandas, numpy. 
